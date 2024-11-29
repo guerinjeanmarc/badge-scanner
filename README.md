@@ -10,7 +10,7 @@ A Streamlit application that uses GPT-4o-mini to extract information from confer
 - Batch processing with progress tracking
 
 ## Demo
-[Link to your Streamlit app will go here]
+Try the live application at: [https://badge-scanner.streamlit.app](https://badge-scanner.streamlit.app)
 
 ## Requirements
 - OpenAI API key with GPT-4o-mini access
